@@ -1,0 +1,129 @@
+<mxfile host="65bd71144e">
+    <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+        <mxGraphModel dx="1386" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="WIyWlLk6GJQsqaUBKTNV-0"/>
+                <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
+                <mxCell id="kVU-KOOd6CGgkNN1jcPl-6" value="TOP" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="265" y="434" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="kVU-KOOd6CGgkNN1jcPl-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="kVU-KOOd6CGgkNN1jcPl-8" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="325" y="434" as="sourcePoint"/>
+                        <mxPoint x="205" y="314" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kVU-KOOd6CGgkNN1jcPl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kVU-KOOd6CGgkNN1jcPl-8" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="425" y="354" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kVU-KOOd6CGgkNN1jcPl-8" value="ログイン" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="265" y="314" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="kVU-KOOd6CGgkNN1jcPl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kVU-KOOd6CGgkNN1jcPl-9" target="kVU-KOOd6CGgkNN1jcPl-8" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="325" y="404" as="targetPoint"/>
+                        <mxPoint x="395" y="714" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="225" y="594"/>
+                            <mxPoint x="225" y="354"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kVU-KOOd6CGgkNN1jcPl-9" value="新規会員登録" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="265" y="554" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="kVU-KOOd6CGgkNN1jcPl-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kVU-KOOd6CGgkNN1jcPl-6" target="kVU-KOOd6CGgkNN1jcPl-9" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="210" y="384" as="sourcePoint"/>
+                        <mxPoint x="175" y="434" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kVU-KOOd6CGgkNN1jcPl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kVU-KOOd6CGgkNN1jcPl-13" target="kVU-KOOd6CGgkNN1jcPl-16" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="585" y="354" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kVU-KOOd6CGgkNN1jcPl-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kVU-KOOd6CGgkNN1jcPl-13" target="kVU-KOOd6CGgkNN1jcPl-23" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kVU-KOOd6CGgkNN1jcPl-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kVU-KOOd6CGgkNN1jcPl-13" target="kVU-KOOd6CGgkNN1jcPl-24" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kVU-KOOd6CGgkNN1jcPl-13" value="メインメニュー" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="425" y="314" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="kVU-KOOd6CGgkNN1jcPl-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kVU-KOOd6CGgkNN1jcPl-16" target="kVU-KOOd6CGgkNN1jcPl-32" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kVU-KOOd6CGgkNN1jcPl-16" value="プレイリスト編集" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="625" y="314" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="kVU-KOOd6CGgkNN1jcPl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="kVU-KOOd6CGgkNN1jcPl-19" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="565" y="354" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="585" y="354"/>
+                            <mxPoint x="585" y="474"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kVU-KOOd6CGgkNN1jcPl-19" value="ガチャ" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="625" y="434" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="kVU-KOOd6CGgkNN1jcPl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="625" y="594" as="targetPoint"/>
+                        <mxPoint x="585" y="474" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="585" y="474"/>
+                            <mxPoint x="585" y="594"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kVU-KOOd6CGgkNN1jcPl-21" value="プレイリスト作成" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="625" y="554" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="kVU-KOOd6CGgkNN1jcPl-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kVU-KOOd6CGgkNN1jcPl-23" target="kVU-KOOd6CGgkNN1jcPl-8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kVU-KOOd6CGgkNN1jcPl-23" value="ログアウト" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="425" y="194" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="kVU-KOOd6CGgkNN1jcPl-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kVU-KOOd6CGgkNN1jcPl-24" target="kVU-KOOd6CGgkNN1jcPl-6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kVU-KOOd6CGgkNN1jcPl-24" value="退会" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="425" y="434" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="kVU-KOOd6CGgkNN1jcPl-32" value="楽曲削除" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="825" y="314" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="kVU-KOOd6CGgkNN1jcPl-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="kVU-KOOd6CGgkNN1jcPl-34" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="785" y="354" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="785" y="474"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kVU-KOOd6CGgkNN1jcPl-34" value="楽曲追加" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="825" y="434" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="kVU-KOOd6CGgkNN1jcPl-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="kVU-KOOd6CGgkNN1jcPl-35" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="785" y="474" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="785" y="594"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kVU-KOOd6CGgkNN1jcPl-35" value="プレイリスト削除" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="825" y="554" width="120" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
